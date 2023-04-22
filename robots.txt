@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin.php
+Disallow: /assets/data/
+Disallow: /assets/view/
