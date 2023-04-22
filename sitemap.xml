@@ -9,843 +9,1403 @@
 
 <url>
   <loc>https://vbstat.ml/</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/gallery</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/about</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/privacy-policy</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/contact</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/calculas</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/demography-and-vital-statistics</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/design-of-experiments</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/linear-model</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/mathematical-analysis</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/multivariate-analysis-and-nonparametric</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/operations-research</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/probability</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/python</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/r-programming</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/sample-survey</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/sampling</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/statistical-computing-using-c-and-cpp</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/stochastic-process</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/syllabus</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/testing-of-hypothesis</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/time-series-analysis</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/ge-math</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/projects</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://vbstat.ml/notes/previous-year-questions</loc>
-  <lastmod>2023-02-18T16:44:02+00:00</lastmod>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/1_Differential%20Calculus_1.pdf</loc>
+  <loc>https://vbstat.ml/gallery/department-of-statistics-visvabharati</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/dept-of-stat-from-mathdept</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/dept-of-statistics-vb</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/siksha-bhabana-canteen</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/statistics-department</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/batch-2020-23-department</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/intro-20</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/intro-2020-batch-2020-23</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/picnic-rondia-dam-2022</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/sb-football-tournament-semifinal-22</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/selfie-in-class-room</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/selfie-siksha-bhanaba</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/siksha-bhabana-football-tournament-2022</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/statistics-team-football-tournament-2022</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/7ca543a0-fc18-4f5a-9e5b-5e328b28c603</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/8f90fb1d13aa46d983081baaf3336e6e</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/IMG-20230420-WA0053</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/IMG-20230420-WA0058</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/IMG-20230420-WA0061</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/class-room</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/sb-interdept-cricket-tournament</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/seminar-room</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/sikhabhabana-interdependent-cricket-tournament</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery/winning-team-interdept-cricket-tournament</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/gallery?view=360</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/about/facuities</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/about/mission-vision</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/faq</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/calculas?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/calculas/1_Differential%20Calculus_1.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/1_Differential%20Calculus_2.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/1_Differential%20Calculus_2.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/1_Differential%20Calculus_3.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/1_Differential%20Calculus_3.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/1_Differential%20Calculus_4.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/1_Differential%20Calculus_4.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/2_Integral%20Calculus_1.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/2_Integral%20Calculus_1.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/2_Integral%20Calculus_2.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/2_Integral%20Calculus_2.pdf</loc>
   <lastmod>2022-11-23T15:18:08+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/2_Integral%20Calculus_3.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/2_Integral%20Calculus_3.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/2_Integral%20Calculus_4.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/2_Integral%20Calculus_4.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/2_Integral%20Calculus_5.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/2_Integral%20Calculus_5.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/3_ODE_1.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/3_ODE_1.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/3_ODE_2.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/3_ODE_2.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/3_ODE_3.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/3_ODE_3.pdf</loc>
   <lastmod>2022-11-23T15:18:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/3_ODE_4.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/3_ODE_4.pdf</loc>
   <lastmod>2022-11-23T15:18:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/3_ODE_5.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/3_ODE_5.pdf</loc>
   <lastmod>2022-11-23T15:18:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/4_PDE_1.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/4_PDE_1.pdf</loc>
   <lastmod>2022-11-23T15:18:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/calculas/Syllabus.pdf</loc>
+  <loc>https://vbstat.ml/note/calculas/Syllabus.pdf</loc>
   <lastmod>2022-11-23T15:18:19+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/demography-and-vital-statistics/demography[409]22.pdf</loc>
+  <loc>https://vbstat.ml/notes/demography-and-vital-statistics?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/demography-and-vital-statistics/demography[409]22.pdf</loc>
   <lastmod>2022-11-23T15:18:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/demography-and-vital-statistics/dse-2b-2020-practical.pdf</loc>
+  <loc>https://vbstat.ml/note/demography-and-vital-statistics/dse-2b-2020-practical.pdf</loc>
   <lastmod>2022-11-23T15:18:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/demography-and-vital-statistics/internal-III.pdf</loc>
+  <loc>https://vbstat.ml/note/demography-and-vital-statistics/internal-III.pdf</loc>
   <lastmod>2022-11-23T15:18:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/demography-and-vital-statistics/internal-practical-exam-2020.pdf</loc>
+  <loc>https://vbstat.ml/note/demography-and-vital-statistics/internal-practical-exam-2020.pdf</loc>
   <lastmod>2022-11-23T15:18:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/demography-and-vital-statistics/ug-demo-ssm.pdf</loc>
+  <loc>https://vbstat.ml/note/demography-and-vital-statistics/ug-demo-ssm.pdf</loc>
   <lastmod>2022-11-23T15:18:49+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/linear-model/Abhra%201.pdf</loc>
+  <loc>https://vbstat.ml/notes/design-of-experiments?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeANOCOVA.pdf</loc>
+  <lastmod>2023-03-18T09:14:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeCRD%20(3).pdf</loc>
+  <lastmod>2023-03-18T09:14:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeContrast.pdf</loc>
+  <lastmod>2023-03-18T09:14:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeFactorial%20Experiments%20(1).PDF</loc>
+  <lastmod>2023-03-18T09:14:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeIntroduction.pdf</loc>
+  <lastmod>2023-03-18T09:14:18+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeLSD%20(1).pdf</loc>
+  <lastmod>2023-03-18T09:14:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeMissingPlot.pdf</loc>
+  <lastmod>2023-03-18T09:14:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeRBD%20(1).pdf</loc>
+  <lastmod>2023-03-18T09:14:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/design-of-experiments/doeSplitPlot-StripPlot-Serial%20Experiments.PDF</loc>
+  <lastmod>2023-03-18T09:14:10+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/linear-model/Abhra%201.pdf</loc>
   <lastmod>2022-11-24T01:43:43+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/linear-model/linear-model-hand-note-bidisha-compressed-(8.58-MB).pdf</loc>
+  <loc>https://vbstat.ml/note/linear-model/linear-model-hand-note-bidisha-compressed-(8.58-MB).pdf</loc>
   <lastmod>2022-11-24T01:43:48+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/linear-model/linera-model-practical_questions_compressed.pdf</loc>
+  <loc>https://vbstat.ml/note/linear-model/linera-model-practical_questions_compressed.pdf</loc>
   <lastmod>2022-11-24T01:43:51+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/linear-model/overleaf.html</loc>
+  <loc>https://vbstat.ml/note/linear-model/overleaf.html</loc>
   <lastmod>2022-11-24T01:43:51+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/linear-model/python.txt</loc>
+  <loc>https://vbstat.ml/note/linear-model/python.txt</loc>
   <lastmod>2022-11-24T01:43:51+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%204.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%204.pdf</loc>
   <lastmod>2022-11-24T01:46:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%205%20(1).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%205%20(1).pdf</loc>
   <lastmod>2022-11-24T01:46:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%206.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%206.pdf</loc>
   <lastmod>2022-11-24T01:46:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%207.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%207.pdf</loc>
   <lastmod>2022-11-24T01:46:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%208.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/(Numerical)%20Analysis%20Ch%204%20part%208.pdf</loc>
   <lastmod>2022-11-24T01:46:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/202004032250571912siddharth_bhatt_engg_Numerical_Differentation_and_Integration.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/202004032250571912siddharth_bhatt_engg_Numerical_Differentation_and_Integration.pdf</loc>
   <lastmod>2022-11-24T01:46:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%201%20(part%201)_Sets%20_%20Sequences.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%201%20(part%201)_Sets%20_%20Sequences.pdf</loc>
   <lastmod>2022-11-24T01:50:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%201%20(part%202)_Sets%20_%20Sequences.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%201%20(part%202)_Sets%20_%20Sequences.pdf</loc>
   <lastmod>2022-11-24T01:50:11+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%201%20(part%203)_Sets%20_%20Sequences.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%201%20(part%203)_Sets%20_%20Sequences.pdf</loc>
   <lastmod>2022-11-24T01:50:18+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%201%20(part%204)_Sets%20_%20Sequences.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%201%20(part%204)_Sets%20_%20Sequences.pdf</loc>
   <lastmod>2022-11-24T01:54:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%201%20(part%205)_Sets%20_%20Sequences.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%201%20(part%205)_Sets%20_%20Sequences.pdf</loc>
   <lastmod>2022-11-24T01:54:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%202%20_%20Series%20Convergence%20%20(part%202).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%202%20_%20Series%20Convergence%20%20(part%202).pdf</loc>
   <lastmod>2022-11-24T01:54:09+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis%20Chapter%202%20_%20Series%20Convergence%20(part%203).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis%20Chapter%202%20_%20Series%20Convergence%20(part%203).pdf</loc>
   <lastmod>2022-11-24T01:54:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis_note_2021%20Chapter%203%20part%201.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis_note_2021%20Chapter%203%20part%201.pdf</loc>
   <lastmod>2022-11-24T01:54:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis_note_VBU_2021%20(upto%20part%201,2,3,4).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis_note_VBU_2021%20(upto%20part%201,2,3,4).pdf</loc>
   <lastmod>2022-11-24T01:54:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Analysis_note_chapter%203%20part%202_%202021.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Analysis_note_chapter%203%20part%202_%202021.pdf</loc>
   <lastmod>2022-11-24T01:54:14+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Copy%20of%20Analysis%20Chapter%202%20_%20Series%20Convergence%20%20(part%201%20).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Copy%20of%20Analysis%20Chapter%202%20_%20Series%20Convergence%20%20(part%201%20).pdf</loc>
   <lastmod>2022-11-24T01:55:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Take%20Home%20Assignment%201.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Take%20Home%20Assignment%201.pdf</loc>
   <lastmod>2022-11-24T01:55:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Using%20R%20for%20Numerical%20Analysis%20in%20Science%20and%20Engineering.pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Using%20R%20for%20Numerical%20Analysis%20in%20Science%20and%20Engineering.pdf</loc>
   <lastmod>2022-11-24T01:55:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Whole%20Differential%20(part%201,2,%203%20updated).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Whole%20Differential%20(part%201,2,%203%20updated).pdf</loc>
   <lastmod>2022-11-24T01:55:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/Whole%20Differential%20(part%201,2,%203,4,5%20%20updated).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/Whole%20Differential%20(part%201,2,%203,4,5%20%20updated).pdf</loc>
   <lastmod>2022-11-24T01:55:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/mathematical-analysis/analysis%20surprise%20test%20(seq,series)%20(1).pdf</loc>
+  <loc>https://vbstat.ml/note/mathematical-analysis/analysis%20surprise%20test%20(seq,series)%20(1).pdf</loc>
   <lastmod>2022-11-24T01:54:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/1_Probability_1.pdf</loc>
+  <loc>https://vbstat.ml/notes/multivariate-analysis-and-nonparametric?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/multivariate-analysis-and-nonparametric/gibbons-2003.pdf</loc>
+  <lastmod>2023-02-18T17:05:41+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/multivariate-analysis-and-nonparametric/handnote-mult-1.pdf</loc>
+  <lastmod>2023-04-22T08:46:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/multivariate-analysis-and-nonparametric/handout1.pdf</loc>
+  <lastmod>2023-04-22T08:52:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/multivariate-analysis-and-nonparametric/nonparametric.pdf</loc>
+  <lastmod>2023-04-22T08:54:48+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/multivariate-analysis-and-nonparametric/table-H.pdf</loc>
+  <lastmod>2023-02-18T17:03:43+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/operations-research?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/21%20March%20operation%20sr.pdf</loc>
+  <lastmod>2023-03-21T07:11:23+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/21%20feb-%20sr%20notes.pdf</loc>
+  <lastmod>2023-02-28T03:51:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/22%20Feb%20sr%20operation%20research%20.pdf</loc>
+  <lastmod>2023-02-28T03:51:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/23%20Feb%20sr%20note%20operation.pdf</loc>
+  <lastmod>2023-02-28T03:51:25+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/28%20march%20operation%20sr.pdf</loc>
+  <lastmod>2023-03-29T09:39:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/6-april-note.pdf</loc>
+  <lastmod>2023-04-06T04:51:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/Inventory%20Management.pdf.pdf</loc>
+  <lastmod>2023-03-29T09:37:30+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/inventory-management.pdf</loc>
+  <lastmod>2023-03-29T13:16:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/operation-note-upto-28-march.pdf</loc>
+  <lastmod>2023-04-05T11:26:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/upto%2021%20March%20sr%20notes%20.pdf</loc>
+  <lastmod>2023-03-21T07:01:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/operations-research/upto-graphical.pdf</loc>
+  <lastmod>2023-02-18T17:02:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/probability/1_Probability_1.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/1_Probability_2.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/1_Probability_2.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/1_Probability_3.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/1_Probability_3.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/1_Probability_4.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/1_Probability_4.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/1_Probability_5.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/1_Probability_5.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/2_Probability_1.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/2_Probability_1.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/2_Probability_2.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/2_Probability_2.pdf</loc>
   <lastmod>2022-11-24T02:07:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/2_Probability_3.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/2_Probability_3.pdf</loc>
   <lastmod>2022-11-24T02:07:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/2_Probability_4.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/2_Probability_4.pdf</loc>
   <lastmod>2022-11-24T02:07:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/3_Probability_1.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/3_Probability_1.pdf</loc>
   <lastmod>2022-11-24T02:07:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/3_Probability_2.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/3_Probability_2.pdf</loc>
   <lastmod>2022-11-24T02:07:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/Bin,%20Poi,%20Normal%20fitting%20with%20exercises%20(1).pdf</loc>
+  <loc>https://vbstat.ml/note/probability/Bin,%20Poi,%20Normal%20fitting%20with%20exercises%20(1).pdf</loc>
   <lastmod>2022-11-24T02:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/CC3%20Internal_2.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/CC3%20Internal_2.pdf</loc>
   <lastmod>2022-11-24T02:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/CC3%20Internal_3.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/CC3%20Internal_3.pdf</loc>
   <lastmod>2022-11-24T02:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/CC3%20Internal_4.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/CC3%20Internal_4.pdf</loc>
   <lastmod>2022-11-24T02:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/probability/CC3_Internal.pdf</loc>
+  <loc>https://vbstat.ml/note/probability/CC3_Internal.pdf</loc>
   <lastmod>2022-11-24T02:07:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/python/65884967599742492.html</loc>
+  <loc>https://vbstat.ml/notes/python?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/python/65884967599742492.html</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/R%20LANGUAGE%20(1).pdf</loc>
+  <loc>https://vbstat.ml/note/python/pip-install.php</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/python/python-in-rstudio.html</loc>
+  <lastmod>2023-02-21T08:58:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/r-programming?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/r-programming/R%20LANGUAGE%20(1).pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/R-LANGUAGE.html</loc>
+  <loc>https://vbstat.ml/note/r-programming/R-LANGUAGE.html</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/SEE_1-1.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/SEE_1-1.pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/SEE_1-2.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/SEE_1-2.pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/SEE_1-3.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/SEE_1-3.pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/SEE_2-1.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/SEE_2-1.pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/SEE_2-2.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/SEE_2-2.pdf</loc>
   <lastmod>2022-11-24T02:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/chapter-3.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/chapter-3.pdf</loc>
   <lastmod>2022-11-24T02:19:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/r-programming/chapter-3_compressed.pdf</loc>
+  <loc>https://vbstat.ml/note/r-programming/chapter-3_compressed.pdf</loc>
   <lastmod>2022-11-24T02:19:40+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/Problem%20set%201.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/Problem%20set%201.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/Sample%20Survey%20day%202.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/Sample%20Survey%20day%202.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/Sample%20Survey%20day%203.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/Sample%20Survey%20day%203.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/chapter11-sampling-systematic-sampling.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/chapter11-sampling-systematic-sampling.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/drawing_simple_random_sampling_handwritten_solution.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/drawing_simple_random_sampling_handwritten_solution.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/sample%20survey%20day%201.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/sample%20survey%20day%201.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/sample_survey_practical_questions.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/sample_survey_practical_questions.pdf</loc>
   <lastmod>2022-11-24T02:29:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sample-survey/stratified_systematic_ratio_regression_double_two_stage_sampling_practical_handwritten_solution.pdf</loc>
+  <loc>https://vbstat.ml/note/sample-survey/stratified_systematic_ratio_regression_double_two_stage_sampling_practical_handwritten_solution.pdf</loc>
   <lastmod>2022-11-24T02:29:50+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/sampling/inequality.pdf</loc>
+  <loc>https://vbstat.ml/note/sampling/inequality.pdf</loc>
   <lastmod>2022-11-24T02:29:50+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/202003251324427324himanshu_Linked_List.pdf</loc>
+  <loc>https://vbstat.ml/notes/statistical-computing-using-c-and-cpp?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/202003251324427324himanshu_Linked_List.pdf</loc>
   <lastmod>2022-11-25T05:12:12+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/Assignment%201,2,3.mhtml</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/Assignment%201,2,3.mhtml</loc>
   <lastmod>2022-11-29T10:43:42+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/C_10_Bubble%20sort.txt</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/C_10_Bubble%20sort.txt</loc>
   <lastmod>2022-11-24T05:16:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/C_11_Random%20No%20Generation_1.txt</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/C_11_Random%20No%20Generation_1.txt</loc>
   <lastmod>2022-11-24T05:16:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/C_12_Random%20No%20Generation_2.txt</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/C_12_Random%20No%20Generation_2.txt</loc>
   <lastmod>2022-11-24T05:16:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/L10%20-%20Sorting.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/L10%20-%20Sorting.pdf</loc>
   <lastmod>2022-11-24T05:16:35+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/LET%20US%20C%2014%20TH%20EDITION-subrata-gmail_compressed.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/LET%20US%20C%2014%20TH%20EDITION-subrata-gmail_compressed.pdf</loc>
   <lastmod>2022-11-24T05:16:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/Stat_Computing%20STRUCTURE__note_VBU_2021.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/Stat_Computing%20STRUCTURE__note_VBU_2021.pdf</loc>
   <lastmod>2022-11-24T05:16:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/Stat_Computing__note_VBU_20222.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/Stat_Computing__note_VBU_20222.pdf</loc>
   <lastmod>2022-11-24T05:16:38+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/c-practial-assignment-1-2-3.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/c-practial-assignment-1-2-3.pdf</loc>
   <lastmod>2022-11-29T11:02:44+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/chap7b.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/chap7b.pdf</loc>
   <lastmod>2022-11-25T05:12:04+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/statistical-computing-using-c-and-cpp/sorted-let-us-c_compressed.pdf</loc>
+  <loc>https://vbstat.ml/note/statistical-computing-using-c-and-cpp/sorted-let-us-c_compressed.pdf</loc>
   <lastmod>2022-12-07T14:54:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/markov-chain.pdf</loc>
+  <loc>https://vbstat.ml/notes/stochastic-process?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/stochastic-process/markov-chain.pdf</loc>
   <lastmod>2022-11-24T05:16:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/martingales.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/martingales.pdf</loc>
   <lastmod>2023-01-20T08:26:46+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/poisson-process-handout.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/poisson-process-handout.pdf</loc>
   <lastmod>2022-12-14T11:14:05+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/queueing-system.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/queueing-system.pdf</loc>
   <lastmod>2023-01-08T12:34:46+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/s-rana-markov-chain-note.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/s-rana-markov-chain-note.pdf</loc>
   <lastmod>2022-11-24T12:39:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/scanned_20230120-1346.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/scanned_20230120-1346.pdf</loc>
   <lastmod>2023-01-20T08:25:50+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/sr-handnote-upto-16-11-22.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/sr-handnote-upto-16-11-22.pdf</loc>
   <lastmod>2022-11-24T05:16:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/stochastic-process.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/stochastic-process.pdf</loc>
   <lastmod>2022-11-24T05:16:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/stochastic-process/toaz.info-j-medhi-stochastic-processes-new-age-science-3rd-revised-edition-edition-20.pdf</loc>
+  <loc>https://vbstat.ml/note/stochastic-process/toaz.info-j-medhi-stochastic-processes-new-age-science-3rd-revised-edition-edition-20.pdf</loc>
   <lastmod>2022-11-30T11:17:30+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/syllabus/23_bsc_statistics.pdf</loc>
+  <loc>https://vbstat.ml/note/syllabus/23_bsc_statistics.pdf</loc>
   <lastmod>2022-11-26T04:33:02+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/syllabus/UGStatistics(CBCS)2017-18.pdf</loc>
+  <loc>https://vbstat.ml/note/syllabus/UGStatistics(CBCS)2017-18.pdf</loc>
   <lastmod>2022-11-26T04:35:51+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Answer%20to%20Assignment%202.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Answer%20to%20Assignment%202.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Assignment%202.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Assignment%202.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Assignment.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Assignment.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Introduction_test_hypothesis-merged.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Introduction_test_hypothesis-merged.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/LRT2.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/LRT2.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Mean%20test_theory.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Mean%20test_theory.pdf</loc>
   <lastmod>2022-11-24T05:19:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Practical%20Problems%20on%20testing%20of%20hypothesis%20testing_mean%20(1).pptx</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Practical%20Problems%20on%20testing%20of%20hypothesis%20testing_mean%20(1).pptx</loc>
   <lastmod>2022-11-24T05:19:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Practical%20Problems%20on%20testing%20of%20hypothesis.pdf.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Practical%20Problems%20on%20testing%20of%20hypothesis.pdf.pdf</loc>
   <lastmod>2022-11-24T05:19:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/SPRT1.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/SPRT1.pdf</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/SPRT2-merged.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/SPRT2-merged.pdf</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Testing%20of%20hypothesis%20Practical%20testing_mean%20(2).pptx</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Testing%20of%20hypothesis%20Practical%20testing_mean%20(2).pptx</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/Testing%20of%20hypothesis%20Practical.pdf.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/Testing%20of%20hypothesis%20Practical.pdf.pdf</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/likelihood%20ratio%20test.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/likelihood%20ratio%20test.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/mean%20test%20_sigma%20unknown.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/mean%20test%20_sigma%20unknown.pdf</loc>
   <lastmod>2022-11-24T05:19:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/neyman%20pearson%20lemma%20%20examples.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/neyman%20pearson%20lemma%20%20examples.pdf</loc>
   <lastmod>2022-11-24T05:19:21+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/scan2.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/scan2.pdf</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/test%20of%20sigma.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/test%20of%20sigma.pdf</loc>
   <lastmod>2022-11-24T05:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/test%20on%20two%20population%20parameters.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/test%20on%20two%20population%20parameters.pdf</loc>
   <lastmod>2022-11-24T05:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/testing%20problems.docx</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/testing%20problems.docx</loc>
   <lastmod>2022-11-24T05:19:27+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/testing_mean(3).pptx</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/testing_mean(3).pptx</loc>
   <lastmod>2022-11-24T05:19:31+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/testing_mean.pptx</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/testing_mean.pptx</loc>
   <lastmod>2022-11-24T05:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/testing-of-hypothesis/unbiased%20test.pdf</loc>
+  <loc>https://vbstat.ml/note/testing-of-hypothesis/unbiased%20test.pdf</loc>
   <lastmod>2022-11-24T05:19:32+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/TIME-SERIES-BIDISHA.pdf</loc>
+  <loc>https://vbstat.ml/notes/time-series-analysis?syllabus=true</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/time-series-analysis/TIME-SERIES-BIDISHA.pdf</loc>
   <lastmod>2023-01-23T14:42:47+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/aneek-ts-analysis-using-r-practical-2-sample.docx</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/aneek-ts-analysis-using-r-practical-2-sample.docx</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/assignment1.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/assignment1.pdf</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/concept%20of%20stionarity%20via%20diagrams.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/concept%20of%20stionarity%20via%20diagrams.pdf</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/concept%20to%20time%20series%20analysis%20by%20plot_First%20lec.PDF</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/concept%20to%20time%20series%20analysis%20by%20plot_First%20lec.PDF</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/concept%20to%20time%20series%20analysis%20by%20plot_First%20lec.pptx</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/concept%20to%20time%20series%20analysis%20by%20plot_First%20lec.pptx</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/exponential-smoothing-forecasting.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/exponential-smoothing-forecasting.pdf</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/forecasting-1.pptx</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/forecasting-1.pptx</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/holt-winters-output-interpretation-in-r.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/holt-winters-output-interpretation-in-r.pdf</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/internal-2-time-series.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/internal-2-time-series.pdf</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/internal-4.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/internal-4.pdf</loc>
   <lastmod>2022-12-16T08:45:28+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/internal-forecasting.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/internal-forecasting.pdf</loc>
   <lastmod>2022-12-13T12:31:06+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/lecture1-introduction-to-time-series-a-detailed-discussion.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/lecture1-introduction-to-time-series-a-detailed-discussion.pdf</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/lecture2.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/lecture2.pdf</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/practical-internal-1-time-series.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/practical-internal-1-time-series.pdf</loc>
   <lastmod>2022-11-24T05:23:17+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
-  <loc>https://vbstat.ml/assets/pdf/time-series-analysis/stationarity-ar2-acf.pdf</loc>
+  <loc>https://vbstat.ml/note/time-series-analysis/stationarity-ar2-acf.pdf</loc>
   <lastmod>2022-11-24T05:23:13+00:00</lastmod>
   <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/ge-math/3</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/ge-math/4</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/previous-year-questions/3</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/notes/previous-year-questions/5</loc>
+  <lastmod>2023-04-22T09:00:39+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Answer%20of%20the%20questions%20uning%20Graphical%20method%20and%20theorem.pdf</loc>
+  <lastmod>2022-11-24T01:37:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Basic%20solutions%20problem..pdf</loc>
+  <lastmod>2022-11-24T01:37:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Computational%20procedure%20of%20Simplex%20Method%20...pdf</loc>
+  <lastmod>2022-11-24T01:37:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/DocScanner%2027-May-2022%208-03%20pm.pdf</loc>
+  <lastmod>2022-11-24T01:37:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/DocScanner%2027-May-2022%208-06%20pm.pdf</loc>
+  <lastmod>2022-11-24T01:37:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Duality%20.....pdf</loc>
+  <lastmod>2022-11-24T01:37:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Examples%20on%20_%20Simplex%20Method%20_%20and%20_%20Charnes%20Method%20of%20Penalties_%20or%20_Big%20M%20Method_.....pdf</loc>
+  <lastmod>2022-11-24T01:41:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/General%20Mathematics%20Sem-IV%20Question%20Paper..pdf</loc>
+  <lastmod>2022-11-24T01:41:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Solve%20by%20adding%20slack%20,%20surplus%20or%20artificial%20variables....(Simplex%20method%20)..pdf</loc>
+  <lastmod>2022-11-24T01:41:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/Two-Phase%20Method%20,%20examples%20and%20exercises...pdf</loc>
+  <lastmod>2022-11-24T01:41:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/note_Numerical%20analysis_compressed.pdf</loc>
+  <lastmod>2022-11-24T01:41:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/previous%20class%20note%20of%20Duality%20....pdf</loc>
+  <lastmod>2022-11-24T01:41:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/ge-math/4/some%20more%20examples%20of%20Basic%20solutions%20.pdf</loc>
+  <lastmod>2022-11-24T01:41:13+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2018-19[%20CC-5%20]%20-%20Sampling%20Distribution%20(Theory)%20StatisticsB.Sc.Sem-III-CC-5.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2018-19[%20CC-6%20]%20-%20Statistical%20Inference%20(Theory)%20StatisticsB.S.c.Sem-III-CC-6A.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2018-19[%20CC-7%20]%20-%20Mathematical%20Analysis%20(Theory%20and%20Tutorial)%20StatisticsB.Sc.Sem-III-CC-7.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2018-19[%20GEC-3%20(Mathematics)%20]%20-%20Differential%20Equations%20and%20its%20Applications%20Mathematics-B.Sc.Sem-III-GEC-3.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2019-20[%20CC-5%20]%20-%20Sampling%20Distribution%20(Theory)%20B-Sc-Statistics-Sem-III-CC-5.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2019-20[%20CC-6%20]%20-%20Statistical%20Inference%20(Theory)%20B-Sc-Statistics-Sem-III-CC-6.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2019-20[%20CC-7%20]%20-%20Mathematical%20Analysis%20(Theory%20and%20Tutorial)%20B-Sc-Statistics-Sem-III-CC-7.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/2019-20[%20GEC-3%20(Mathematics)%20]%20-%20Differential%20Equations%20and%20its%20Applications%20Undergraduate-Mathematics-Sem-III-GEC-3.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/B.Sc.-(Hons.)2019-Statistics-Sem-IV-CC-10.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/B.Sc.-(Hons.)2019-Statistics-Sem-IV-CC-9-(Linear-Models).pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/BSc3S_2020_Stat_CC5.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/BSc3S_2020_Stat_Inference.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/BSc3S_2020_Stat_Inference_Pract.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/BSc3S_R_SECC-1_2020.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/CC5%20Sampling%202021.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/Previous%20year%20question%20sem-4%20merged_compressed.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/3/Question%20Paper%202020%20CC7.pdf</loc>
+  <lastmod>2023-02-21T08:53:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/2019-20[%20CC-11%20]%20-%20Stochastic%20Process%20and%20Queuing%20Theory%20(Theory).pdf</loc>
+  <lastmod>2022-12-14T12:28:24+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/2019-20[%20CC-12%20]%20-%20Statistical%20Computing%20using%20CC++%20Programming%20(Theory).pdf</loc>
+  <lastmod>2022-12-14T12:28:25+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/2019-20[%20DSE-1%20]%20-%20Time%20Series%20Analysis%20(Theory).pdf</loc>
+  <lastmod>2022-12-14T12:28:25+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/2019-20[%20DSE-2%20]%20-%20Demography%20and%20Vital%20Statistics%20(Theory).pdf</loc>
+  <lastmod>2022-12-14T12:28:26+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/BSC(Honours)_CC11.pdf</loc>
+  <lastmod>2022-12-14T17:49:36+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/BSC(Honours)_CC11B.pdf</loc>
+  <lastmod>2022-12-14T17:49:40+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/DSE-2A_2021-22.pdf</loc>
+  <lastmod>2022-12-14T17:49:41+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/DSE-2B_2021-22.pdf</loc>
+  <lastmod>2022-12-14T17:50:02+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/STAT%20COMPUTING%20WITH%20C%20%20practical(23%20FEB)%20Q.pdf</loc>
+  <lastmod>2022-12-14T17:50:06+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/STAT%20COMPUTING%20WITH%20C%20(11%20FEB)%20Q.pdf</loc>
+  <lastmod>2022-12-14T17:50:17+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://vbstat.ml/note/previous-year-questions/5/Time%20series_2021.pdf</loc>
+  <lastmod>2023-01-24T03:26:03+00:00</lastmod>
+  <priority>0.41</priority>
 </url>
 
 
