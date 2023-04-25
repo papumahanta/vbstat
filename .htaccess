@@ -1,0 +1,28 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [L]
+
+# Remove i parameter for bytehosting
+RewriteEngine On
+RewriteCond %{QUERY_STRING} ^(.*)i=[^&]+(.*)$ [NC]
+RewriteRule ^(.*)$ /$1?%1%2 [R=301,L]
+
+# www to non-www url redirect
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^www.vbstat.ml
+RewriteRule (.*) http://vbstat.ml/$1 [R=301,L]
+
+# Folder indexing blocked
+Options -Indexes
+
+# Error pages
+ErrorDocument 403 /error
+ErrorDocument 404 /error
+
+# Redirect rules
+Redirect /about-us /about
+Redirect /contact-us /contact
+Redirect /privacy /privacy-policy
+
+Redirect /a /assets/view/system/admin.php

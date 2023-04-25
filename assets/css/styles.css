@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+:root {
+  --c-bg-primary: #1e1e27;
+  --c-bg-secondary: #2c2d38;
+  --c-text-primary: #FFF;
+  --c-text-secondary: #95a3b9;
+  --c-action-primary: #2276fc;
+  --c-focus-ring: #9fc4ff;
+}
+
+
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.5;
+  background-color: var(--c-bg-primary);
+  color: var(--c-text-primary);
+}
+
+a {
+  color: inherit;
+}
+
+
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid var(--c-text-secondary);
+}
+
+
+nav {
+  margin-top: 1rem;
+  color: var(--c-text-secondary);
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+nav a {
+  text-decoration: none;
+  font-size: 1.125rem;
+  display: inline-block;
+  padding: 0.375em 1em;
+  
+}
+nav a:hover {
+  background-color: var(--c-bg-secondary);
+}
+
+main {
+  width: 90%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4rem;
+  margin-bottom: 6rem;
+}
+
+article {
+  font-size: 1.125rem;
+ 
+  margin-left: auto;
+  margin-right: auto;
+  color: var(--c-text-secondary);
+}
+article * + * {
+  margin-top: 1em;
+}
+article a {
+  color: var(--c-text-primary);
+  text-decoration: none;
+  box-shadow: 0 1px 0;
+}
+article a:hover {
+  box-shadow: 0 3px 0;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 2rem;
+  line-height: 1.125;
+  color: var(--c-text-primary);
+}
