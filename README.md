@@ -1,4 +1,4 @@
-# vbstat
+# vbstat.ml
 ## Description
 this page is an unofficial and maintained by statistics students of department of statistics VisvaBharati University
 ## Structure
